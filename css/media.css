@@ -1,10 +1,6 @@
 /* Small (0 --> 768px) (Mobile) */
 @media screen and (max-width: 768px) {
   /* General */
-  .container {
-    width: 90%;
-    margin: auto;
-  }
   .sm-100 {
     width: 100%;
   }
