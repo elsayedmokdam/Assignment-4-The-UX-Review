@@ -344,7 +344,6 @@ button:hover {
 }
 
 /* Left */
-
 .second-section .container .left {
   width: 65%;
 }
@@ -506,7 +505,6 @@ span i {
 }
 
 /* Right */
-
 .second-section .container .right {
   width: 30%;
   height: fit-content;
@@ -515,7 +513,6 @@ span i {
 }
 
 /* Item-1 */
-
 .second-section .container .right .item-1 {
   border: 5px solid #000;
   box-shadow: 5px 5px #000;
@@ -612,7 +609,6 @@ span i {
 }
 
 /* Item-2 */
-
 .item-2 {
   border: 5px solid #000;
   box-shadow: 5px 5px #000;
