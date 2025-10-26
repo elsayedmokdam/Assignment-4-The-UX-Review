@@ -41,6 +41,11 @@
   .first-section .text-left .top-left h3 {
     width: 100%;
   }
+  .first-section .text-left h2 {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+  }
   .text-left .top-left h3 {
     width: 30%;
   }
