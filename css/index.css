@@ -297,6 +297,10 @@ button:hover {
   background-color: #000;
 }
 
+.start-reading span i {
+  color: #FFF;
+}
+
 .watch-intro {
   background-color: #fff;
   color: #000;
