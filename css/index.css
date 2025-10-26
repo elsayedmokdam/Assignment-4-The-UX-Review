@@ -1126,6 +1126,7 @@ span i {
   transition: all 0.5;
   outline: none;
   caret-color: #fff;
+  color: #FFF;
 }
 
 .end-section .container .upper-section .right form input:focus {
